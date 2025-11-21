@@ -141,3 +141,11 @@ This project highlights complete analytical capability using SQL alone — from 
 
 ---
 
+---
+
+License   
+
+---- 
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project, provided that proper attribution is given.
+
